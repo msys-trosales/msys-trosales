@@ -1,10 +1,11 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Front End Development (React, Angular), & Mobile Development (Swift XCode)
 
 ![msys-trosales's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=msys-trosales)
 
 ## Most Used Languages
 - PHP (Laravel, Lumen)
-- JavaScript (Adonis [v4 & v5], Nest)
+- JavaScript (Adonis [v4, v5], Nest)
 
 ## Other Languages
 - Java (Spring, Android)
