@@ -2,6 +2,14 @@
 
 ![msys-trosales's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=msys-trosales)
 
+## Most Used Languages
+- PHP (Laravel, Lumen)
+- JavaScript (Adonis [v4 & v5], Nest)
+
+## Other Languages
+- Java (Spring, Android)
+- PHP (CodeIgniter)
+
 <!--
 **msys-trosales/msys-trosales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
