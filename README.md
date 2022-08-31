@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Front End Development (React, Angular), & Mobile Development (Swift XCode)
 
 ![msys-trosales's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=msys-trosales)
 
