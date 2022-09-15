@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Tristan Rosales, a Back End Software Engineer at Multisys Corporation Technologies.
 
 ![msys-trosales's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=msys-trosales)
 
