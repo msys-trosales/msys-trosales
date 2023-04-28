@@ -5,5 +5,10 @@ I'm Tristan Rosales, a Back End Software Engineer at Multisys Technologies Corpo
 
 ## Most Used Languages
 - PHP (CodeIgniter, Laravel, Lumen)
-- JavaScript (TypeScript, Adonis [v4, v5], Nest, Angular, React, Vue)
+- JavaScript (Node, TypeScript, Adonis [v4, v5], Nest)
 - Java (Spring, Android)
+
+## Others
+- Angular.js (Basic-Intermediate)
+- Vue.js (Basic-Intermediate)
+- React.js (Basic-Intermediate)
