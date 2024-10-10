@@ -5,6 +5,6 @@ I'm Tristan Rosales, a Software Engineer at Multisys Technologies Corporation.
 
 ## Used Languages
 - PHP (CodeIgniter, Laravel/Lumen)
-- JavaScript (Node, Express, TypeScript, Adonis, Nest, Angular, React, Vue)
+- JavaScript (Express, TypeScript, Adonis, Nest, Angular, React, Vue)
 - Java (J2EE, JavaSE, Spring, Hibernate, Android)
 - C# (Unity)
