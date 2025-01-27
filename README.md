@@ -9,6 +9,6 @@ I'm **Tristan Rosales**, a passionate **Software Engineer** at **Multisys Techno
 ## 🚀 Expertise & Technologies  
 ### Programming Languages  
 - **PHP**: CodeIgniter, Laravel/Lumen  
-- **JavaScript**: Express, TypeScript, Adonis, Nest, Angular, React, Vue  
+- **JavaScript**: Express, TypeScript, Adonis, React  
 - **Java**: J2EE, JavaSE, Spring, Hibernate, Android  
 - **C#**: Unity
